@@ -9,5 +9,6 @@ public class HelloWorld {
 		
 		// Merge with conflict
 		System.out.println("Lady Samantha Bentley");
+		System.out.println("Kendra Sunderland");
 	}
 }
