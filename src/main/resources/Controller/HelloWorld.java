@@ -6,5 +6,8 @@ public class HelloWorld {
 	{
 		// Hello World бнЪО
 		System.out.println("Hello World");
+		
+		// Merge with conflict
+		System.out.println("Samantha Bentley");
 	}
 }

@@ -6,5 +6,5 @@ public class Welcome {
 	
 	public String measurements;
 	
-	public String legLenth;
+	public String legLength;
 }
